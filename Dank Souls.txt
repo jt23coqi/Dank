@@ -1,0 +1,236 @@
+
+########################################################################## DS 2 - Trophies To Do ##########################################################################
+
+Master of Sorcery (11)
+		Fall Control			Weaponsmith Ornifex 		4.800 Souls
+		Hush				Lost Bastille			Loot
+		Repair				Shrine of Winter		Loot
+		Soul Geyser			Aldias Keep			Loot
+		Hidden Weapon			Bell Keepers 			Defeat 30 Trespassers		Rank 2		THIS ONE ONLY ONLINE!
+		Unleash Magic			Royal Sorcerer Navlaan´s 	Quest				NG+
+		Heavy Homing Soul Arrow		Ruin Sentinel Soul 		@ Straid of Olaphis
+		Soul Shower			Scorpioness Najka Soul 		@ Straid of Olaphis
+		Crystal Soul Spear		Old Paledrake Soul  		@ Straid of Olaphis		NG+		Dukes Dear Freja 
+
+Master of Miracles (15)
+		Med Heal			Licia of Lindeldt 		3.000 Souls
+		Great Heal Excerpt		Licia of Lindeldt 		4.500 Souls
+		Replenishment			Licia of Lindeldt 		3.000 Souls
+		Caressing Prayer		Licia of Lindeldt 		2.000 Souls
+		Force				Licia of Lindeldt 		1.800 Souls
+		Lightning Spear			Licia of Lindeldt 	 	?
+		Homeward			Licia of Lindeldt 		2.400 Souls
+		Guidance			Licia of Lindeldt 		3.700 Souls
+		Perservance			Cromwell the Pardoner 		3.500 Souls
+		Wrath of the Gods		Chancellor Wellager 		8.200 Souls			NG+
+		Bountiful Sunlight		Chancellor Wellager 		11.000 Souls			NG+
+		Soothing Sunlight		Invade & kill Licia of Lindeldt					pre NG+
+		Sunlight Spear			Heirs of the Sun 		30 Sunlight Medals		Rank 3		Get Summoned
+		Sacred Oath			Soul of Velstadt 		@ Straid of Olaphis
+		Blinding Bolt			Old King Soul 			@ Straid of Olaphis		NG+		Old Iron King
+
+Master of Hexes	(6)
+		Darkstorm			Magerold of Lanafir 		4.700 Souls
+		Whisper of Despair		Grave of Saints 		Loot
+		Climax				Pilgrims of Dark 		Clear 3 Abyssal Dungeons, light Fire Beacons, Kill Darklurker
+		Repel				Giant Lord Soul 		@ Straid of Olaphis
+		Lifedrain Patch			Darklurker Soul 		@ Straid of Olaphis
+		Numbness			Old Dead One Soul  		@ Straid of Olaphis		NG+		The Rotten 
+
+Master of Pyromancy (10)
+		Lingering Flame			Straid of Olaphis 		6.700 Souls
+		Flame Swathe			Straid of Olaphis 		9.500 Souls
+		Warmth				Grave Warden Agdayne 		5.200 Souls
+		Great Chaos Fireball		Chancellor Wellager  		17.400 Souls			NG+
+		Chaos Storm			Iron Keep			Loot
+		Great Fireball			Brightstone Cove Tseldora	Loot
+		Forbidden Sun			Royal Sorcerer Navlaan´s 	Quest 				NG+ 		Felkin the Outcast Part
+		Toxic Mist			Royal Rat Vanguard Soul 	@ Straid of Olaphis
+		Acid Surge			Royal Rat Authority Soul 	@ Straid of Olaphis
+		Flame Weapon			Old Witch Soul  		@ Straid of Olaphis		NG+		Lost Sinner 
+
+Iron Keep Bonfire			Light the primal bonfire in the Iron Keep				NG+
+Looking Glass Knight			Defeat Looking Glass Knight						NG+
+
+Moonlight Greatsword			Inherit Benhart of Jugo's equipment					NG+		guide?
+Lucatiel				Inherit equipment from Lucatiel of Mirrah				NG+		guide?
+
+Selfless Giver				Max-out devotion to covenant						NG	!	Pilgrims of Dark / Heirs of the Sun
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DS 2 Check later:
+- Lost Bastille / Servants Quarters Pharros Lockstone
+- Sinners Rise Check Bridge Below
+- Inner Earth blabla Pharros Lockstone
+
+DS 2 Bosses to check:				probably 5 left...
+- Darklurker 							Royal Rat Vanguard / Royal Rat Authority
+- Iron King: Fume Knight / Sir Alonne
+- Ivory King: Lud and Zallen, The Kings Pets			Aava, The Kings Pet / 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Attribute Soft Caps:
+Vigor		20                50			20 HP past 20 / 5 HP hast 50
+Endurance	20					1 Stamina past 20
+Vitality	        29       49			1.0 Equip past 29 / 0.5 Equip past 49 / 0.25 Equip past 70
+Attunement	         30       50 55 75 94		50-55 for Casting Speed with 50 INT or FAITH || 10 / 13 / 16 / 20 / 25 / 30 / 40 / 50 / 60 / 75 for Spell Slot 
+Strength	               40 50			Drastic Drop past 50
+Dexterity	               40 50			Drastic Drop past 50
+Adaptability	   25 28    35				25 for Resists up to 140 / 28 for Agility if Attunement 30 / 35 for Agility if Attunement is 5
+Intelligence	               40 50			Drastic Drop past 50
+Faith		               40 50			Drastic Drop past 50
+
+Rolls:
+< 10%		95% Rolling Distance		Hob		
+< 30%		90% Rolling Distance		Fast Roll
+< 50%		80% Rolling Distance		Medium Roll			--> Stay below 50%
+< 70%		65% Rolling Distance		
+> 70%		65% Rolling Distance		Fat Roll
+
+Agility 	85 / 86 / 88 / 92 / 96 / 99 / 105 / 111 / 114 / 116		--> min 86		--> best would be 105	 (Dark Souls Fast Roll)	
+     iframes:	 5 /  8 /  9 / 10 / 11 / 12 /  13 /  14 /  15 /  16
+
+		Attunement	Adaptability	Agility
+			 2		   3	     85
+			 8		   4	     85
+			 9		   5	     86
+			10		  10	     90
+			 8		  24	    100
+			44		  12	    100
+			30		  30	    110				--> Adaptability to 25 for Resists, Attunement 20/25/30/50/55
+			20		  80	    115
+			86		  58	    115
+			99		  99	    120
+
+########################################################################## DS 3 - Trophies To Do ##########################################################################
+
+Master of Expression			Learn all gestures.
+		?				?
+
+Master of Rings				Acquire all rings.
+		?				?
+
+Master of Miracles			Acquire all miracles.
+		?				?
+
+Master of Pyromancies			Acquire all pyromancies.
+		?				?
+
+Master of Sorceries			Acquire all sorceries.
+		?				?
+
+Master of Infusion			Perform all forms of infusion.
+		?				?
+
+To Link the First Flame			Reach "To Link the First Flame" ending.			Character:
+The Usurpation of Fire			Reach "The Usurpation of Fire" ending.			Character:
+Covenant: Blade of the Darkmoon		Discover Blade of the Darkmoon covenant.		
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DLC!!!!!
+
+https://www.twitch.tv/dark____x
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Attribute Soft Caps:
+Vigor		27    50		19 HP past 27 / 
+Attunement	
+Endurance	   40			No noteworthy Gain (10 Stamina if 99)
+Vitality	   40			1.0 Equip past 40
+Strength	   40    60		Drastic Drop past 40 / Drastic Drop past 60
+Dexterity	   40    60		Drastic Drop past 40 / Drastic Drop past 60
+Intelligence	   40    60		Drastic Drop past 40 / Drastic Drop past 60
+Faith		   40    60		Drastic Drop past 40 / Drastic Drop past 60
+Luck		   40    60    99	
+
+Rolls:
+< 30%	Fast Roll
+< 70%	Medium Roll			--> Stay below 70%
+> 70%	Fat Roll
+
+####################################################################### Bloodborne - Trophies To Do #######################################################################
+
+Hunters Essence				probably Chalice Dungeon
+One Hidden				probably Chalice Dungeon
+
+######################################################################### DS 1 REMASTERED - 100 % #########################################################################
+
+Ember Locations:
+Large Ember		Depths 			Behind First Butcher 							  - Chest 		+10 Normal / +5 Raw
+Crystal Ember		Dukes Archives		Room leading to Crystal Cave 						  - Chest		+5 Crystal
+Large Magic Ember	Dukes Archives		Kill Seath, return to first encounter 					  - Chest		+10 Magic
+Divine Ember		Darkroot Garden 	Kill Moonlight Butterfly, across the bridge atop the Tower 		  - Petr. Blacksmith	+5 Divine
+Enchanted Ember		Darkroot Garden		Shallow water guarded by Mushrooms (turn right after Kitty Cat) 	  - Chest		+5 Enchanted
+Large Flame Ember	Demon Ruins		Turn left before Firesage Foggate (coming down big stairs) 		  - Chest		+10 Fire
+Chaos Flame Ember	Demon Ruins		Kill Ceaseless Discharge & Taurus Demons (& Centipede 4 Ring)		  - Corpse		+5 Chaos
+Large Divine Ember	Tomb of Giants 		Above first bonfire, turn right, enter Coffin 				  - Petr. Blacksmith	+10 Divine
+Dark Ember		Painted World		Unlock the Annex, Key in Sewers 					  - Petr. Blacksmith	+5 Occult
+Very Large Ember	New Londo Ruins 	Third Floor of Room with Mass of Souls closest to Valley of Drakes 	  - Chest		+15 Normal
+
+Attribute Soft Caps:
+Vitality	      30 40    50		23 HP past 30 / 20 HP past 40 / 9 HP past 50
+Attunement		       50		10 / 12 / 14 / 16 / 19 / 23 / 28 / 34 / 41 / 50 for Spell Slot
+Endurance	         40		  	No Gain past 40
+Strength	   20    40			Drastic Drop past 40
+Dexterity	   20    40 45 			Drastic Drop past 40 / Max Spell Cast Speed at 45
+Intelligence	         40 45 50		Drastic Drop past 40 / Logans Catalyst drops past 45 / Drastic Drop past 50
+Faith			       50		Drastic Drop past 50
+Humanity	10    30			No more Item Discovery & Chaos Scaling past 10 / No Curse Resistance past 30
+
+Rolls:
+Fast Roll	< 25%		Medium Roll	< 50% < 	Fat Roll	--> Stay below 50%
+
+Talismans:
+Thorolund 	< 27 < 		Canvas 		< 39 < 		Darkmoon 	< 42 <		Ivory / Sunlight
+
+Catalysts:
+???		< ?? <		???		< ?? <		??
+
+Snuggly Trades per Cycle:
+- Dung Pie		Demon Titanite
+- Prism Stone		Demon Titanite
+- Rubbish		Titanite Chunk
+- Egg Vermifuge		Dragon Scale
+
+Slabs per Cycle:
+Titanite Slab (3)	Asylum - Stray Demon 
+			Complete Siegmeyers Questline
+			Royal Woods - Chest behind Waterfall at Black Dragon Kalameet (DLC)
+			& Drop from Darkwraith Dudes (New Londo Ruins)
+
+White Slab (2)		Tomb of Giants - Pre Nito drop down left
+			Chasm of the Abyss - pre Manus on a corpse (DLC)
+			& Drop from Pinwheel Servant (Tomb of Giants)
+
+Blue Slab (2)		Crystal Cave - invisible Bridge after Lizards
+			Royal Woods - Chest in Pond before first Elevator (DLC)	
+			& Drop from Crystal Butterfly (Crystal Cave)
+
+Red Slab (1)		Lost Izalith - Chest down in Siegmeyers Pit
+			& Drop from Chaos Eater (Lost Izalith)
+
+Titanite Chunks:
+Normal			Darkwraith (New Londo Ruins)
+White			Pinwheel Servants (Tomb of Giants)
+Blue			Crystal Golem & Crystal Butterfly (Duke´s Archives & Crystal Cave)
+Red			Chaos Eater (Lost Izalith)
+
+################################################################### DS 1 Prepare To Die - Trophies To Do ##################################################################
+
+Knight's Honor 				Acquire all rare weapons
+Prayer of a Maiden 			Acquire all miracles
+Bond of a Pyromancer 			Acquire all pyromancies
+Strongest Weapon 			Acquire the best weapon through standard reinforcement
+Raw Weapon 				Acquire the best weapon through raw reinforcement
+
+Covenant: Princess's Guard 		Discover the Princess's Guard covenant
+Covenant: Warrior of Sunlight 		Discover the Warrior of Sunlight covenant
+Covenant: Dark Wraith 			Discover the Dark Wraith covenant
+Covenant: Gravelord Servant 		Discover the Gravelord Servant covenant
+
+###########################################################################################################################################################################
+
