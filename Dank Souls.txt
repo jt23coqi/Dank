@@ -1,4 +1,80 @@
 
+########################################################################## DS 3 - Trophies To Do ##########################################################################
+
+Master of Expression			Learn all gestures.
+		?				?
+
+Master of Rings				Acquire all rings.
+		?				?
+
+Master of Miracles			Acquire all miracles.
+		?				?
+
+Master of Pyromancies			Acquire all pyromancies.
+		?				?
+
+Master of Sorceries			Acquire all sorceries.
+		?				?
+
+Master of Infusion			Perform all forms of infusion.
+		?				?
+
+To Link the First Flame			Reach "To Link the First Flame" ending.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DLC!!!!!
+
+https://www.twitch.tv/dark____x
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Attribute Soft Caps:
+Vigor		27    50		19 HP past 27 / 
+Attunement		       99	10 / 14 / 18 / 24 / 30 / 40 / 50 / 60 / 80 / 99
+Endurance	   40			No noteworthy Gain past 40 (10 Stamina if 99)
+Vitality	   40			1.0 Equip past 40
+Strength	   40    60		Drastic Drop past 40 / Drastic Drop past 60
+Dexterity	   40    60		Drastic Drop past 40 / Drastic Drop past 60
+Intelligence	   40    60		Drastic Drop past 40 / Drastic Drop past 60
+Faith		   40    60		Drastic Drop past 40 / Drastic Drop past 60
+Luck		   40    60    99	
+
+Rolls:
+< 30%	Fast Roll
+< 70%	Medium Roll			--> Stay below 70%
+> 70%	Fat Roll
+
+Pickle Pee Trades per Cycle:
+- Firebomb			Large Titanite Shard
+- Black Firebomb		Titanite Chunk
+- Prism Stone			Twinkling Titanite
+- Large Leather Shield		Twinkling Titanite
+- Avelyn			Titanite Scale x3
+- Blacksmith Hammer		Titanite Scale
+- Coiled Sword Fragment		Titanite Slab
+
+Pickle Pee Trades for Gems:
+- Xanthous Crown		Lightning Gem
+- Moaning Shield		Blessed Gem
+- Eleonora			Hollow Gem
+
+Pickle Pee Trades for Items:
+- Lightning Urn			Iron Helm
+- Homeward Bone			Iron Bracelets
+- Seed of a Giant Tree		Iron Leggings
+- Siegbräu			Armor of the Sun
+- Vertrebra Shackle		Lucatiel Mask
+- Undead Bone Shard		Procine Shield
+- Mendicants Staff		Sunlight Shield
+
+Pickle Pee Trades for Carvings:
+- Divine Blessing		Very Good Carving
+- Hidden Blessing		Thank You Carving
+- Alluring Skull		Hello Carving
+- ANY Sacred Chime		Help Me Carving
+- Shriving Stone		I´m Sorry Carving
+
 ########################################################################## DS 2 - Trophies To Do ##########################################################################
 
 Master of Sorcery (11)
@@ -55,8 +131,6 @@ Looking Glass Knight			Defeat Looking Glass Knight						NG+
 Moonlight Greatsword			Inherit Benhart of Jugo's equipment					NG+		guide?
 Lucatiel				Inherit equipment from Lucatiel of Mirrah				NG+		guide?
 
-Selfless Giver				Max-out devotion to covenant						NG	!	Pilgrims of Dark / Heirs of the Sun
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 DS 2 Check later:
@@ -103,54 +177,6 @@ Agility 	85 / 86 / 88 / 92 / 96 / 99 / 105 / 111 / 114 / 116		--> min 86		--> be
 			20		  80	    115
 			86		  58	    115
 			99		  99	    120
-
-########################################################################## DS 3 - Trophies To Do ##########################################################################
-
-Master of Expression			Learn all gestures.
-		?				?
-
-Master of Rings				Acquire all rings.
-		?				?
-
-Master of Miracles			Acquire all miracles.
-		?				?
-
-Master of Pyromancies			Acquire all pyromancies.
-		?				?
-
-Master of Sorceries			Acquire all sorceries.
-		?				?
-
-Master of Infusion			Perform all forms of infusion.
-		?				?
-
-To Link the First Flame			Reach "To Link the First Flame" ending.			Character:
-The Usurpation of Fire			Reach "The Usurpation of Fire" ending.			Character:
-Covenant: Blade of the Darkmoon		Discover Blade of the Darkmoon covenant.		
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-DLC!!!!!
-
-https://www.twitch.tv/dark____x
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Attribute Soft Caps:
-Vigor		27    50		19 HP past 27 / 
-Attunement	
-Endurance	   40			No noteworthy Gain (10 Stamina if 99)
-Vitality	   40			1.0 Equip past 40
-Strength	   40    60		Drastic Drop past 40 / Drastic Drop past 60
-Dexterity	   40    60		Drastic Drop past 40 / Drastic Drop past 60
-Intelligence	   40    60		Drastic Drop past 40 / Drastic Drop past 60
-Faith		   40    60		Drastic Drop past 40 / Drastic Drop past 60
-Luck		   40    60    99	
-
-Rolls:
-< 30%	Fast Roll
-< 70%	Medium Roll			--> Stay below 70%
-> 70%	Fat Roll
 
 ####################################################################### Bloodborne - Trophies To Do #######################################################################
 
